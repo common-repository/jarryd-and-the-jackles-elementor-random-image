@@ -1,0 +1,174 @@
+# Empty string for an example
+msgid ""
+msgstr ""
+
+msgid "Random Article"
+msgstr ""
+
+msgid "Elementor Random Image"
+msgstr ""
+
+msgid "Elementor"
+msgstr ""
+
+msgid "PHP"
+msgstr ""
+
+msgid "Jarryd And The Jackles"
+msgstr ""
+
+msgid "Wordsearch Creator"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "The number of rows in the wordsearch"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "The number of columns in the wordsearch"
+msgstr ""
+
+msgid "Words"
+msgstr ""
+
+msgid "Word"
+msgstr ""
+
+msgid "A word to be found"
+msgstr ""
+
+msgid "Extra"
+msgstr ""
+
+msgid "Title Color"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "The colour to display the word in"
+msgstr ""
+
+msgid "Cell Options"
+msgstr ""
+
+msgid "CSS selector prefix"
+msgstr ""
+
+msgid "The prefix to use for selecting the chosen words. Used for prevent overriding another wordsearch."
+msgstr ""
+
+msgid "Cell Height"
+msgstr ""
+
+msgid "The height of each cell."
+msgstr ""
+
+msgid "Cell Width"
+msgstr ""
+
+msgid "The width of each cell."
+msgstr ""
+
+msgid "Cell Font"
+msgstr ""
+
+msgid "The font of each cell."
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Data Dump"
+msgstr ""
+
+msgid "Directions"
+msgstr ""
+
+msgid "The current active directions."
+msgstr ""
+
+msgid "Base Styles"
+msgstr ""
+
+msgid "Cell Font Size"
+msgstr ""
+
+msgid "The font size (in px) of each cell."
+msgstr ""
+
+msgid "Cell Font Colour"
+msgstr ""
+
+msgid "The font colour of each cell."
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgid "Top to Bottom"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right to Left"
+msgstr ""
+
+msgid "Left Down"
+msgstr ""
+
+msgid "Top Right to Bottom Left"
+msgstr ""
+
+msgid "Left Up"
+msgstr ""
+
+msgid "Bottom Right to Top Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Left to Right"
+msgstr ""
+
+msgid "Right Down"
+msgstr ""
+
+msgid "Top Left to Bottom Right"
+msgstr ""
+
+msgid "Right Up"
+msgstr ""
+
+msgid "Bottom Left to Top Right"
+msgstr ""
+
+msgid "Up"
+msgstr "Bottom to Top"
+
+msgid "Image Selection"
+msgstr ""
+
+msgid "Add Images"
+msgstr ""
+
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
